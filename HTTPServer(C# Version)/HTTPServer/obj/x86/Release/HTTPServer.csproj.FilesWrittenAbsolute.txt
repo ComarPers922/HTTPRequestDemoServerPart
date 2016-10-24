@@ -1,0 +1,5 @@
+/Users/apple/Desktop/Code/HTTPServer/HTTPServer/obj/x86/Release/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/apple/Desktop/Code/HTTPServer/HTTPServer/bin/Release/HTTPServer.exe.mdb
+/Users/apple/Desktop/Code/HTTPServer/HTTPServer/bin/Release/HTTPServer.exe
+/Users/apple/Desktop/Code/HTTPServer/HTTPServer/obj/x86/Release/HTTPServer.exe
+/Users/apple/Desktop/Code/HTTPServer/HTTPServer/obj/x86/Release/HTTPServer.exe.mdb
